@@ -14,7 +14,7 @@ body{
     background-size: cover;
     border: 5px solid #333;
     border-radius: 10px;
-    margin: 20px auto;
+    margin: 15px auto;
     color: #fff;
     font-size: 24px;
     display: flex;
@@ -31,5 +31,5 @@ img{
     border-radius: 10px;
     justify-content: space-between;
     align-items: center;
-    margin: 0 3px;
+    margin: 0;
 }
